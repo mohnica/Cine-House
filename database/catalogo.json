@@ -1,0 +1,28 @@
+{
+"filmes": [
+{
+    "id" : 1,
+    "titulo" : "O senhor dos Aneis I", 
+    "duração" : 2,
+    "atores" : ["Gandolf", "Smeagle", "Cristophe"],
+    "ano": 2002 ,
+    "em cartaz" : true
+},
+{
+    "id" : 2,
+    "titulo" : "O senhor dos Aneis II", 
+    "duração" : 2,
+    "atores" : ["Gandolf", "Smeagle", "Cristophe"],
+    "ano": 2003 ,
+    "em cartaz" : false
+},
+{    
+    "id" : 3,
+    "titulo" : "O senhor dos Aneis III", 
+    "duração" : 3,
+    "atores" : ["Gandolf", "Smeagle", "Cristophe"],
+    "ano": 2004 ,
+    "em cartaz" : true
+}
+]
+}
